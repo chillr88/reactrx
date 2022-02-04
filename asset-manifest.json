@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactrx/static/css/main.fd0dab96.chunk.css",
+    "main.js": "/reactrx/static/js/main.74c4ec1d.chunk.js",
+    "main.js.map": "/reactrx/static/js/main.74c4ec1d.chunk.js.map",
+    "runtime-main.js": "/reactrx/static/js/runtime-main.00802c9b.js",
+    "runtime-main.js.map": "/reactrx/static/js/runtime-main.00802c9b.js.map",
+    "static/js/2.8b7640ee.chunk.js": "/reactrx/static/js/2.8b7640ee.chunk.js",
+    "static/js/2.8b7640ee.chunk.js.map": "/reactrx/static/js/2.8b7640ee.chunk.js.map",
+    "index.html": "/reactrx/index.html",
+    "static/css/main.fd0dab96.chunk.css.map": "/reactrx/static/css/main.fd0dab96.chunk.css.map",
+    "static/js/2.8b7640ee.chunk.js.LICENSE.txt": "/reactrx/static/js/2.8b7640ee.chunk.js.LICENSE.txt",
+    "static/media/christina.0fac20e5.jpg": "/reactrx/static/media/christina.0fac20e5.jpg",
+    "static/media/circle.c02c1c0b.png": "/reactrx/static/media/circle.c02c1c0b.png",
+    "static/media/goofer.1daa3ec1.jpg": "/reactrx/static/media/goofer.1daa3ec1.jpg",
+    "static/media/rings-logo.062c6213.png": "/reactrx/static/media/rings-logo.062c6213.png",
+    "static/media/server.be684178.jpg": "/reactrx/static/media/server.be684178.jpg",
+    "static/media/shapes.b8ec363a.jpg": "/reactrx/static/media/shapes.b8ec363a.jpg",
+    "static/media/shubham.6676bb21.jpg": "/reactrx/static/media/shubham.6676bb21.jpg",
+    "static/media/tencent.74d1033e.png": "/reactrx/static/media/tencent.74d1033e.png",
+    "static/media/tsmc.96251887.png": "/reactrx/static/media/tsmc.96251887.png",
+    "static/media/unsplash.f7fc382f.jpg": "/reactrx/static/media/unsplash.f7fc382f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00802c9b.js",
+    "static/js/2.8b7640ee.chunk.js",
+    "static/css/main.fd0dab96.chunk.css",
+    "static/js/main.74c4ec1d.chunk.js"
+  ]
+}
